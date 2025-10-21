@@ -13,7 +13,7 @@ Aplicación Laravel desarrollada como actividad evaluable del módulo **Laravel 
 - Nombre: Ricardo Pérez Aragoneses
 - Iniciales: RIC
 - Curso: 2025-2026
-- Centro: IES Getafe
+- Centro: Campus FP Getafe
 
 ## Cómo ejecutar
 1. Clonar el repositorio
